@@ -1,0 +1,4 @@
+kmp algorithm
+robin karp algo
+sliding window technique
+Reversal algo
